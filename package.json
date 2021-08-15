@@ -1,5 +1,6 @@
 {
   "name": "discord-timestamps",
+  "homepage": "https://dev-marisa.github.io/discord-timestamp-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

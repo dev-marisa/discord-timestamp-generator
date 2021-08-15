@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/discord-timestamp-generator/static/css/main.097854c3.chunk.css",
+    "main.js": "/discord-timestamp-generator/static/js/main.bada5ff2.chunk.js",
+    "main.js.map": "/discord-timestamp-generator/static/js/main.bada5ff2.chunk.js.map",
+    "runtime-main.js": "/discord-timestamp-generator/static/js/runtime-main.f8d77dfa.js",
+    "runtime-main.js.map": "/discord-timestamp-generator/static/js/runtime-main.f8d77dfa.js.map",
+    "static/js/2.e377272e.chunk.js": "/discord-timestamp-generator/static/js/2.e377272e.chunk.js",
+    "static/js/2.e377272e.chunk.js.map": "/discord-timestamp-generator/static/js/2.e377272e.chunk.js.map",
+    "index.html": "/discord-timestamp-generator/index.html",
+    "static/css/main.097854c3.chunk.css.map": "/discord-timestamp-generator/static/css/main.097854c3.chunk.css.map",
+    "static/js/2.e377272e.chunk.js.LICENSE.txt": "/discord-timestamp-generator/static/js/2.e377272e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d77dfa.js",
+    "static/js/2.e377272e.chunk.js",
+    "static/css/main.097854c3.chunk.css",
+    "static/js/main.bada5ff2.chunk.js"
+  ]
+}
